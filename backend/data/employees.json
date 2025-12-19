@@ -1,0 +1,10 @@
+[
+  {
+    "employeeId": "EMP-1001",
+    "fullName": "Gayathri",
+    "email": "gayu@gmail.com",
+    "role": "Employee",
+    "department": "Sales",
+    "joiningDate": "2025-12-19"
+  }
+]
